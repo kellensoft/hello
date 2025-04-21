@@ -12,10 +12,3 @@
 - 🛑 Provides fallback behavior with `FAILURE_MESSAGE`
 - 🛠 Configurable entirely through environment variables
 
----
-
-## 🚀 Quick Start
-
-### 1. Install dependencies (if any):
-```bash
-npm install
