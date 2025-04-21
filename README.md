@@ -1,6 +1,6 @@
 # Hello
 
-**Hello** is a modular, chainable message-building microservice written in Node.js. It processes a simple string input and responds with a templated message, optionally forwarding the result to another ChainApp instance to build dynamic multi-stage responses.
+**Hello** is a modular, chainable message-building microservice written in Node.js. It processes a simple string input and responds with a templated message, optionally forwarding the result to another instance to build dynamic multi-stage responses.
 
 ---
 
