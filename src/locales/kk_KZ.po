@@ -1,0 +1,22 @@
+# Kazakh translations for hello
+# Copyright (C) 2025 KELLENSOFT
+# This file is distributed under the same license as the hello package.
+# KELLEN SULLIVAN <KELLEN@KELLENSOFT.COM>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hello 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-16 18:23\n"
+"PO-Revision-Date: 2025-08-16 18:23\n"
+"Last-Translator: KELLEN SULLIVAN <KELLEN@KELLENSOFT.COM>\n"
+"Language-Team: Kazakh <LL@li.org>\n"
+"Language: kk_KZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/hello.c:16
+#, c-format
+msgid "Hello, %s!\n"
+msgstr "Сәлем, %s!\n"
