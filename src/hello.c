@@ -8,6 +8,7 @@
 int main(int argc, char *argv[]) {
     setlocale(LC_ALL, "");
     bindtextdomain("hello", "./bin/share/locale");
+    bind_textdomain_codeset("hello", "UTF-8");
     textdomain("hello");
     const char *name = "World";
     if (argc > 1 && strlen(argv[1]) > 0) {
